@@ -19,7 +19,7 @@ Provided data consists of three data sets for gold aquisitions which underwent t
 
 Our targets for this study are **final.output.recovery** and **rougher.output.recovery** which describe the final and rougher outputs in gold recovery during the process.
 
-**Models evaluated:** RandomForestRegressor, LogisticRegression
+**Models evaluated:** RandomForestRegressor, LinearRegression
 
 ## Findings
 
